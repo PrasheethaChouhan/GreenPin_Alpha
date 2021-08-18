@@ -1,1 +1,1 @@
-# GreenPin_Alpha
+# GreenPin-0.2
